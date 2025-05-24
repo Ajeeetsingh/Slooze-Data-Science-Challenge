@@ -1,4 +1,6 @@
 # Slooze Data Science Challenge
+## Dataset Link:
+https://drive.google.com/drive/folders/1GA4xd30jnD0OoHVjmR-zeg2upa8fjy47?usp=sharing
 
 ## Overview
 This repository contains the solution to the Slooze Data Science Challenge, focusing on inventory, purchase, and sales analysis to optimize Slooze's liquor store operations. The project uses a dataset of six CSV files (sales, purchases, inventory, etc.) to perform demand forecasting, inventory classification, and supply chain optimization, delivering actionable insights for inventory management and operational efficiency.
